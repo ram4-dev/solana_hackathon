@@ -1,0 +1,19 @@
+landing.html
+  s_c8445ff49aa68e::t_7b617476f7252c 86,94-101,103-108,584
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.3",
+  "base_commit_sha": "2838164e0dbec4876ec01d4a42ae3c0c2ee8c912",
+  "prompts": {},
+  "sessions": {
+    "s_c8445ff49aa68e": {
+      "agent_id": {
+        "tool": "pi",
+        "id": "019e9835-dbb5-7d9b-af73-9b582344bf9d",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "Ramiro <ramiro.carnicer@mercadolibre.com>"
+    }
+  }
+}
