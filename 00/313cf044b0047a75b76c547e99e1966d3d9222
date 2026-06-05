@@ -1,0 +1,53 @@
+back/services/__tests__/loadPolicy.test.ts
+  s_a6a5da6a22a3bd::t_98bbc4c4758c5a 1-90,92-141,143-193
+  s_a6a5da6a22a3bd::t_c65dca5289f668 91,142
+docs/wave-2-policy-engine/technical-spec.md
+  s_fec3378ab4570f::t_d1f03e0ed1e6ae 24-56
+docs/wave-2-policy-engine/task.json
+  s_fec3378ab4570f::t_1d41f5000bde46 85-102
+  s_fec3378ab4570f::t_8dede7774b8995 109-229,233-258,263-288,293,317,320-321,325
+back/services/__tests__/policyEngine.test.ts
+  s_fec3378ab4570f::t_28c40d4da6f630 1-2,4-174,176-434
+back/services/policy/policyEngine.ts
+  s_fec3378ab4570f::t_5b6775134c8f26 22
+  s_fec3378ab4570f::t_f4727415816064 1-21,23-32,36-37,40-41,44-50,53-67,69-81,84-90,93-99,102-108,111-126,129-134,137-143,146-152,155-161,163-165,167-189,192-198,210-229,232-241,244-249,252-266,269-287,290-296,299-308,311-317,320-325,328-329
+back/services/policy/policySchema.ts
+  s_fec3378ab4570f::t_389deea397ff6d 1-6
+  s_a6a5da6a22a3bd::t_c2d5194b3338e1 7-23,26,46,67,77,92,118-203,205-211
+  s_a6a5da6a22a3bd::t_75cd5e617fe477 24-25,27-45,47-66,68-76,78-91,93-95,102-104,111-117
+back/services/policy/loadPolicy.ts
+  s_a6a5da6a22a3bd::t_16f72930ca2857 1-6,9-34,36-70
+  s_fec3378ab4570f::t_b2878ab5f7b310 7-8
+  s_a6a5da6a22a3bd::t_965694c1e3fc31 35
+back/services/policy/policyContracts.ts
+  s_fec3378ab4570f::t_203c0be6d435bd 1-16,49-50,54-141
+  s_fec3378ab4570f::t_602a07aa94cd45 17-48,51-53
+back/services/policy/defaultPolicy.yaml
+  s_a6a5da6a22a3bd::t_c672e2fa10be46 1-41
+package.json
+  s_a6a5da6a22a3bd::t_e0c3c566aff504 73,95
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.5",
+  "base_commit_sha": "00313cf044b0047a75b76c547e99e1966d3d9222",
+  "prompts": {},
+  "sessions": {
+    "s_a6a5da6a22a3bd": {
+      "agent_id": {
+        "tool": "pi",
+        "id": "019e99c1-8c72-747f-a35f-22e5b261136f",
+        "model": "gpt-5.5"
+      },
+      "human_author": "Ramiro <ramiro.carnicer@mercadolibre.com>"
+    },
+    "s_fec3378ab4570f": {
+      "agent_id": {
+        "tool": "pi",
+        "id": "019e99f7-66e6-7a7a-89be-054f7306f55d",
+        "model": "gpt-5.5"
+      },
+      "human_author": "Ramiro <ramiro.carnicer@mercadolibre.com>"
+    }
+  }
+}
