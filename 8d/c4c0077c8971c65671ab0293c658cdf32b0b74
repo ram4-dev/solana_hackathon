@@ -1,0 +1,19 @@
+landing.html
+  s_d339d482e33022::t_3ffbbc3abca38e 14
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.3",
+  "base_commit_sha": "8dc4c0077c8971c65671ab0293c658cdf32b0b74",
+  "prompts": {},
+  "sessions": {
+    "s_d339d482e33022": {
+      "agent_id": {
+        "tool": "pi",
+        "id": "019e99c0-6e09-7092-a94c-f03075ebfa88",
+        "model": "gpt-5.5"
+      },
+      "human_author": "Ramiro <ramiro.carnicer@mercadolibre.com>"
+    }
+  }
+}
