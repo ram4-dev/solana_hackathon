@@ -1,0 +1,33 @@
+tsconfig.json
+  s_147f15cdcfcaca::t_8146a50f2d112e 31
+legacy/README.md
+  s_147f15cdcfcaca::t_7dcf4c0b44d4df 1-51
+vitest.back.config.ts
+  s_147f15cdcfcaca::t_e4eb4da1fe1902 11
+package.json
+  s_147f15cdcfcaca::t_11ac95f985852a 11,14
+eslint.config.js
+  s_147f15cdcfcaca::t_60e508e3fb0b6a 7-14,16-25,29,47-57
+vitest.legacy.config.ts
+  s_147f15cdcfcaca::t_b1e2550de1edeb 1-24
+vitest.config.ts
+  s_147f15cdcfcaca::t_004fdaa70e0749 11
+eslint.legacy.config.js
+  s_147f15cdcfcaca::t_ef0c92cf47e112 1-35
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "1fdd179dd3cdf9603e5b1e706b8ac4fd6afbeda7",
+  "prompts": {},
+  "sessions": {
+    "s_147f15cdcfcaca": {
+      "agent_id": {
+        "tool": "pi",
+        "id": "019e9a23-2967-74b9-b934-f37e77654cc7",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "Ramiro <ramiro.carnicer@mercadolibre.com>"
+    }
+  }
+}
