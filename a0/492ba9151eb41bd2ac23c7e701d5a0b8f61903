@@ -1,0 +1,23 @@
+back/services/priceProviders/orcaUsdcSol.ts
+  s_147f15cdcfcaca::t_3ef56584e31ad8 1-143
+back/services/priceQuote.ts
+  s_147f15cdcfcaca::t_58507c46488f56 1
+back/services/__tests__/priceQuote.test.ts
+  s_147f15cdcfcaca::t_5281fac52d287a 2
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "a0492ba9151eb41bd2ac23c7e701d5a0b8f61903",
+  "prompts": {},
+  "sessions": {
+    "s_147f15cdcfcaca": {
+      "agent_id": {
+        "tool": "pi",
+        "id": "019e9a23-2967-74b9-b934-f37e77654cc7",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "Ramiro <ramiro.carnicer@mercadolibre.com>"
+    }
+  }
+}
