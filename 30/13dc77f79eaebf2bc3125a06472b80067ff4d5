@@ -1,0 +1,146 @@
+back/services/transferGateway.ts
+  s_e5dab4498d5c88::t_dcc1a4b4cf7681 18,131-164,340-366
+  s_e5dab4498d5c88::t_90030a9e02b801 334-335
+  s_ec01c8f4a0d8d3::t_b2d30773e54e27 213,222
+  s_e5dab4498d5c88::t_9484c4e19731bd 317,319,328-330,332-333,336-339
+  s_05d21de5b933e1::t_839df9a11cc58e 1-17,19-121,165-212,214-221,223-316,320-327,367-396
+docs/wave-3-transfer-behind-gateway/technical-spec.md
+  s_147f15cdcfcaca::t_06b49a496f405e 252-264
+  s_c024937dba1d2f::t_558ca4a65c1b62 1-48,50-64,66-158,160-198,200-228,230-251,265-270
+back/services/__tests__/transferGateway.test.ts
+  s_3fc1816e573f89::t_34ee5bacebc0c0 1-234,236,305-415
+  s_e5dab4498d5c88::t_6d3cb825027c10 237-256,258-295,298-304
+docs/wave-3-transfer-behind-gateway/task.json
+  s_05d21de5b933e1::t_d83f036a252b77 98,119-126
+  s_e5dab4498d5c88::t_5c575b6b22b0af 264,266
+  s_ec01c8f4a0d8d3::t_b6eab0d5f6ce90 324,346-347,349-360,367-368
+  s_406551ae9e463b::t_144fd7539105ab 232,234
+  s_f8fbade00612fc::t_e022cc5a51db72 4,131,152-157,164-165
+  s_07a6e352ab3730::t_908ab425bec4ea 286,306-311,318-319
+  s_406551ae9e463b::t_535427cee11e35 210,230-231,233,235-237
+  s_07a6e352ab3730::t_1878a1d6bfda47 312-317
+  s_e5dab4498d5c88::t_0c88acecba6a68 242,262-263,265,267,280-281
+  s_ec01c8f4a0d8d3::t_b243210b5e1743 333-336
+  s_e5b5f701f39266::t_3d8a7c2d35feca 170,192-205
+  s_c024937dba1d2f::t_bbf3758fb2a607 1-2,6-66,68-77,79-80,82-85,94-97,99-118,127-130,132-143,145-151,166-169,171-191,206-209,211-229,238-241,243-261,282-285,287-305,320-323,325-332,337-345,348,369-372,374-424,426-458,474-476
+  s_147f15cdcfcaca::t_047909a36edc14 3,5,459-473
+  s_3fc1816e573f89::t_600af014832181 67,78,81,86-93,144
+back/services/chat.ts
+  s_e5b5f701f39266::t_72122eb7d7c165 1060-1063,1065-1067,1070-1077,1079-1080,1082-1084,1086,1088-1102,1104-1105,1108-1110,1114-1118,1136-1138
+  s_ec01c8f4a0d8d3::t_ae3ba8b18acc27 77
+  s_e5dab4498d5c88::t_99f43e3d0f3a42 1112,1119-1127,1131,1133-1135
+  s_ec01c8f4a0d8d3::t_098cadd244626a 1139,1141-1149,1151,1153-1159,1162-1175
+  s_ec01c8f4a0d8d3::t_e85bc8312e40e9 2803-2805,2808-2810,2812-2817,2904-2946,2949,2951-2952
+  s_e5b5f701f39266::t_4557a8c4abdfba 2777-2789,2792-2802,2818-2820,2823,2825-2827
+  s_e5b5f701f39266::t_d21fac5e048690 2903
+  s_ec01c8f4a0d8d3::t_15f231a2a3a313 4391,4393,4395-4399,4401-4404,4406-4451,4458-4500,4503-4504,4507-4508
+docs/wave-3-transfer-behind-gateway/functional-spec.md
+  s_c024937dba1d2f::t_3315c63aa229e0 1-141,150-169
+  s_147f15cdcfcaca::t_974fe03d568496 142-149
+back/services/transferGatewayContracts.ts
+  s_ec01c8f4a0d8d3::t_68ffce9cad720c 120,122-124,131,136-138
+  s_e5dab4498d5c88::t_5362e6ed76d5ee 95-106
+  s_05d21de5b933e1::t_79f783d1544289 1-94,107-119,125-130,132-135
+back/services/__tests__/chat.test.ts
+  s_f8fbade00612fc::t_9986bf1f24b218 585-586,596,599-603,606-609,613-614,618-623,625,627-633,636,639-644,649-661,663,666-669,671,673-674,677-680,684-685,689-694,696,698-704,706,708-709,712-713,716-717,721-727,730,734-737,740-743,747-748,752-758,760,764-767,1063
+  s_f8fbade00612fc::t_8d9c193fbfc134 75-81,83-85,88-90,94-95,97,106,108,111-112,114-135,138-139,141-142,148,150-151,153-161,163,166-167,171,177-182,184-188
+  s_f8fbade00612fc::t_8d50f31b7892ac 4-5,7-10
+  s_406551ae9e463b::t_4867043839f3d8 190-191,193-204,207-215,219-223
+  s_406551ae9e463b::t_a41db1245252ee 771-777,779-780,782-787,789-792,794,796,798-799,803-809,812-814,816-817,820-825,827-830,832,838,840-841,845,848-851,853-854,856-1062
+  s_406551ae9e463b::t_30710ea22ffad8 833,836
+  s_e5dab4498d5c88::t_5d564cf7aa6626 6
+  s_406551ae9e463b::t_551c133ad75048 587-589,591,593,595,597
+back/services/transferAuditLog.ts
+  s_ec01c8f4a0d8d3::t_5e754453179a96 1-24
+back/services/chatSessionStore.ts
+  s_e5b5f701f39266::t_d7d0ea7053d302 116
+  s_ec01c8f4a0d8d3::t_4e5b3d7026ba1e 8,117
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "3013dc77f79eaebf2bc3125a06472b80067ff4d5",
+  "prompts": {},
+  "sessions": {
+    "s_05d21de5b933e1": {
+      "agent_id": {
+        "tool": "pi",
+        "id": "019e9d03-a153-7fc2-af0d-c4f938812015",
+        "model": "gpt-5.5"
+      },
+      "human_author": "Ramiro <ramiro.carnicer@mercadolibre.com>"
+    },
+    "s_07a6e352ab3730": {
+      "agent_id": {
+        "tool": "pi",
+        "id": "019e9d62-652b-775c-b56e-86f810126036",
+        "model": "gpt-5.5"
+      },
+      "human_author": "Ramiro <ramiro.carnicer@mercadolibre.com>"
+    },
+    "s_147f15cdcfcaca": {
+      "agent_id": {
+        "tool": "pi",
+        "id": "019e9a23-2967-74b9-b934-f37e77654cc7",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "Ramiro <ramiro.carnicer@mercadolibre.com>"
+    },
+    "s_3fc1816e573f89": {
+      "agent_id": {
+        "tool": "pi",
+        "id": "019e9d01-2189-7084-bd33-a728caaf8321",
+        "model": "gpt-5.5"
+      },
+      "human_author": "Ramiro <ramiro.carnicer@mercadolibre.com>"
+    },
+    "s_406551ae9e463b": {
+      "agent_id": {
+        "tool": "pi",
+        "id": "019e9d47-c538-7018-9e9a-fe910c569201",
+        "model": "gpt-5.5"
+      },
+      "human_author": "Ramiro <ramiro.carnicer@mercadolibre.com>"
+    },
+    "s_c024937dba1d2f": {
+      "agent_id": {
+        "tool": "pi",
+        "id": "019e9cf9-2efa-7683-929f-efd47f81f4cc",
+        "model": "gpt-5.5"
+      },
+      "human_author": "Ramiro <ramiro.carnicer@mercadolibre.com>"
+    },
+    "s_e5b5f701f39266": {
+      "agent_id": {
+        "tool": "pi",
+        "id": "019e9d41-c18d-7c46-84f6-6db8b4be9641",
+        "model": "gpt-5.5"
+      },
+      "human_author": "Ramiro <ramiro.carnicer@mercadolibre.com>"
+    },
+    "s_e5dab4498d5c88": {
+      "agent_id": {
+        "tool": "pi",
+        "id": "019e9d4c-13c7-738d-900f-df012c9b5ccf",
+        "model": "gpt-5.5"
+      },
+      "human_author": "Ramiro <ramiro.carnicer@mercadolibre.com>"
+    },
+    "s_ec01c8f4a0d8d3": {
+      "agent_id": {
+        "tool": "pi",
+        "id": "019e9d68-5fcf-7bc8-8dfc-4d4ed2d9d1ff",
+        "model": "gpt-5.5"
+      },
+      "human_author": "Ramiro <ramiro.carnicer@mercadolibre.com>"
+    },
+    "s_f8fbade00612fc": {
+      "agent_id": {
+        "tool": "pi",
+        "id": "019e9d06-6443-7cad-b14a-237636c05521",
+        "model": "gpt-5.5"
+      },
+      "human_author": "Ramiro <ramiro.carnicer@mercadolibre.com>"
+    }
+  }
+}
