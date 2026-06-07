@@ -1,0 +1,37 @@
+back/README.md
+  s_62d254e7866c56::t_de913e2558c9e2 71-73
+docs/wave-4-mcp-server/functional-spec.md
+  s_62d254e7866c56::t_de913e2558c9e2 1-74
+docs/wave-2-policy-engine/functional-spec.md
+  s_62d254e7866c56::t_de913e2558c9e2 55,58
+docs/wave-4-mcp-server/task.json
+  s_62d254e7866c56::t_de913e2558c9e2 1-93
+docs/compass-monad-on-solana/mvp-migration-plan.md
+  s_62d254e7866c56::t_de913e2558c9e2 211,213-245,256,265,288,290,294-298,302-305,309-312,314,353-358
+docs/wave-3-transfer-behind-gateway/functional-spec.md
+  s_62d254e7866c56::t_de913e2558c9e2 148,152-154,158
+docs/back-architecture.html
+  s_62d254e7866c56::t_de913e2558c9e2 330-333,359,377
+docs/wave-4-mcp-server/technical-spec.md
+  s_62d254e7866c56::t_de913e2558c9e2 1-138
+docs/wave-3-transfer-behind-gateway/technical-spec.md
+  s_62d254e7866c56::t_de913e2558c9e2 263
+docs/README.md
+  s_62d254e7866c56::t_de913e2558c9e2 20
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "1b2bbdf9552897193ded81cc7298a06f33b0bb0c",
+  "prompts": {},
+  "sessions": {
+    "s_62d254e7866c56": {
+      "agent_id": {
+        "tool": "pi",
+        "id": "019ea464-c932-7b5d-9e68-70abc1845bc3",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "ram4-dev <ramirocarnicersouble8@gmail.com>"
+    }
+  }
+}
