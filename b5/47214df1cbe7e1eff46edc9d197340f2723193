@@ -1,0 +1,27 @@
+landing.html
+  s_147f15cdcfcaca::t_0d6ab6450e2752 591-592,607-608,746-747,758-759
+package.json
+  s_147f15cdcfcaca::t_a15092324b13bc 10,17
+app/layout.tsx
+  s_147f15cdcfcaca::t_7e64e2636621a1 2-4
+.gitignore
+  s_147f15cdcfcaca::t_2b23da031c2466 57-58
+public/compass-banner-light.svg
+  s_147f15cdcfcaca::t_3bdf9fb031b97c 1-63
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "b547214df1cbe7e1eff46edc9d197340f2723193",
+  "prompts": {},
+  "sessions": {
+    "s_147f15cdcfcaca": {
+      "agent_id": {
+        "tool": "pi",
+        "id": "019e9a23-2967-74b9-b934-f37e77654cc7",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "Ramiro <ramiro.carnicer@mercadolibre.com>"
+    }
+  }
+}
