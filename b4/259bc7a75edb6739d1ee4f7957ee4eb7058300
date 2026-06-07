@@ -1,0 +1,51 @@
+back/README.md
+  s_147f15cdcfcaca::t_6385ce488b4143 1-75
+launch.html
+  s_f6dfd8933de9d8::t_a9287bae7397c3 160-162,165,170-172
+  s_f6dfd8933de9d8::t_aff1e175652f67 1-159,163-164,166-169,173-429
+app/launch/route.ts
+  s_f6dfd8933de9d8::t_122aab0a6a3ccf 1-14
+README.md
+  s_147f15cdcfcaca::t_3e804a0f06d41e 13,26,28-37,52,54,58-60,62-73,75-78,81,83,85,87,90-100,102,106-114,118-126,129,134-143
+  s_5c989af5b0411e::t_7863d7aba499c3 61,88-89,127,155
+back/.env.example
+  s_5c989af5b0411e::t_7863d7aba499c3 1-28
+package.json
+  s_5c989af5b0411e::t_7863d7aba499c3 16
+docs/README.md
+  s_5c989af5b0411e::t_7863d7aba499c3 1-48
+landing.html
+  s_5c989af5b0411e::t_7863d7aba499c3 591-592,607-608,746-747,758-759
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "b4259bc7a75edb6739d1ee4f7957ee4eb7058300",
+  "prompts": {},
+  "sessions": {
+    "s_147f15cdcfcaca": {
+      "agent_id": {
+        "tool": "pi",
+        "id": "019e9a23-2967-74b9-b934-f37e77654cc7",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "Ramiro <ramiro.carnicer@mercadolibre.com>"
+    },
+    "s_5c989af5b0411e": {
+      "agent_id": {
+        "tool": "pi",
+        "id": "019ea325-a2af-78bd-b93c-b7ad01d69449",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "Ramiro <ramiro.carnicer@mercadolibre.com>"
+    },
+    "s_f6dfd8933de9d8": {
+      "agent_id": {
+        "tool": "pi",
+        "id": "019ea312-f02f-7d6d-93df-dedb8ee262e6",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "Ramiro <ramiro.carnicer@mercadolibre.com>"
+    }
+  }
+}
