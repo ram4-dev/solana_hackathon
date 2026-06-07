@@ -1,0 +1,21 @@
+app/launch/route.ts
+  s_5c989af5b0411e::t_53fcf59a08a8f5 1-14
+launch.html
+  s_5c989af5b0411e::t_53fcf59a08a8f5 1-429
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "5a615a225a2fb3bff39b46afa7e7e9bbf7c14418",
+  "prompts": {},
+  "sessions": {
+    "s_5c989af5b0411e": {
+      "agent_id": {
+        "tool": "pi",
+        "id": "019ea325-a2af-78bd-b93c-b7ad01d69449",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "Ramiro <ramiro.carnicer@mercadolibre.com>"
+    }
+  }
+}
