@@ -1,0 +1,29 @@
+docs/wave-3.5-legacy-isolation/proposal.md
+  s_147f15cdcfcaca::t_b9ad62233f2fa3 28,77-78,139,141,145-147,149-151,153-154,157-158,160,163,165
+  s_147f15cdcfcaca::t_eef4146b4400e4 81-83,85-87,102-124,152,155,167-168,170-174,233-239
+  s_147f15cdcfcaca::t_7d9572c41617a0 1-27,29-76,79-80,84,88-101,125-138,140,142,159,162,164,166,169,175-210,212,216-232,240,248-254
+  s_147f15cdcfcaca::t_2bf7659f0d3a00 143-144,148,156,161,211,213-215,241-247
+docs/wave-3.5-legacy-isolation/review-notes.md
+  s_147f15cdcfcaca::t_beee91e072f5d7 1-140
+docs/wave-3.5-legacy-isolation/inventory.md
+  s_147f15cdcfcaca::t_b517b05d5a2078 1-13,21-111,160-179,182-184,186-189,192-193,195-272
+  s_147f15cdcfcaca::t_bef0d7290d4199 112-136,155-158,180,194
+  s_147f15cdcfcaca::t_95524896507ef4 137-154,159,181
+  s_147f15cdcfcaca::t_163b865168051b 14-20,185,190-191
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "c67271b8f499a2b9d8aa551b1d8b651fa9ad7258",
+  "prompts": {},
+  "sessions": {
+    "s_147f15cdcfcaca": {
+      "agent_id": {
+        "tool": "pi",
+        "id": "019e9a23-2967-74b9-b934-f37e77654cc7",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "Ramiro <ramiro.carnicer@mercadolibre.com>"
+    }
+  }
+}
