@@ -1,0 +1,21 @@
+back/services/envHttp.ts
+  s_147f15cdcfcaca::t_5826aa709eff9e 1-33
+back/services/walletSafetyValidation.ts
+  s_147f15cdcfcaca::t_8035818f184b9e 9
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "01c5bd652125ae383f70e92bb87dd125a9872059",
+  "prompts": {},
+  "sessions": {
+    "s_147f15cdcfcaca": {
+      "agent_id": {
+        "tool": "pi",
+        "id": "019e9a23-2967-74b9-b934-f37e77654cc7",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "Ramiro <ramiro.carnicer@mercadolibre.com>"
+    }
+  }
+}
