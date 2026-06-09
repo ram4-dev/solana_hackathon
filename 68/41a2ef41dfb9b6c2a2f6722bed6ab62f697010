@@ -1,0 +1,70 @@
+back/services/__tests__/mcpServer.test.ts
+  s_07a0142cff2f3d::t_c854621610b38e 75,78
+back/services/policy/policyContracts.ts
+  s_07a0142cff2f3d::t_9f7146fa12b250 80-86,113,127-135
+  s_07a0142cff2f3d::t_43b8803c01ec40 34-41
+back/services/conditionalGatewayContracts.ts
+  s_07a0142cff2f3d::t_4197f7a5ce1752 1-69
+back/services/conditionalGateway.ts
+  s_07a0142cff2f3d::t_cf9aff84be967d 1-145,149-245
+  s_07a0142cff2f3d::t_097294cc2764d1 146-148
+back/services/__tests__/policyEngine.test.ts
+  s_07a0142cff2f3d::t_68cb08a6ef1905 243-306
+back/services/policy/policySchema.ts
+  s_07a0142cff2f3d::t_ce5d0feeb5ba9d 68-93
+back/services/policy/policyEngine.ts
+  s_07a0142cff2f3d::t_92c4fce75d4095 68-71,263-350
+  s_07a0142cff2f3d::t_e193e7050cd818 21-24
+back/services/__tests__/mcpToolRegistry.test.ts
+  s_07a0142cff2f3d::t_f5effe988406f6 24,33,36,39,48-58,67-70
+back/services/__tests__/conditionalGateway.test.ts
+  s_07a0142cff2f3d::t_2ead4252782688 1-7,9-35,39-209
+  s_07a0142cff2f3d::t_77308f6153573f 8,36-38
+back/services/executionGateway.ts
+  s_07a0142cff2f3d::t_d81e2c9e9fe996 19
+docs/wave-5-conditional-gateway/technical-spec.md
+  s_469293aa8dd19c::t_378be59ea88224 1-69
+back/services/__tests__/mcpToolCallRouter.test.ts
+  s_07a0142cff2f3d::t_2a35b6ee297d54 453-575
+  s_07a0142cff2f3d::t_9684046758e60d 6,31-94
+back/services/mcp/mcpToolRegistry.ts
+  s_07a0142cff2f3d::t_deef35f792d2fe 23-44,84-118,154-168,198,200-208
+docs/wave-5-conditional-gateway/task.json
+  s_07a0142cff2f3d::t_857ef3ad98e705 145,148,152,159,183
+  s_07a0142cff2f3d::t_24700dfa27a5d3 3-4,30,32-40,45,47-70,75,77-92,97,99-107,112,114-136,141,144,146-147,149-151,153-158,160-164,174-181
+  s_469293aa8dd19c::t_fab55eecfdab6b 1-2,5-29,31,41-44,46,71-74,76,93-96,98,108-111,113,137-140,142-143,165-173,182,184
+back/services/policy/defaultPolicy.yaml
+  s_07a0142cff2f3d::t_11240eac200050 25-30
+back/services/mcp/mcpToolContracts.ts
+  s_07a0142cff2f3d::t_318a2aa2c0cce9 1,12-13,16,64-67
+back/services/mcp/mcpToolCallRouter.ts
+  s_07a0142cff2f3d::t_1049c555c0ffe8 1007-1019
+  s_07a0142cff2f3d::t_469de6fc0140de 219-284
+  s_07a0142cff2f3d::t_8566f5508d8c93 515-637
+  s_07a0142cff2f3d::t_03f64faa9e96f5 1-2,90-95,100-101
+  s_07a0142cff2f3d::t_b28cf6e71d2c57 851-982
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "6841a2ef41dfb9b6c2a2f6722bed6ab62f697010",
+  "prompts": {},
+  "sessions": {
+    "s_07a0142cff2f3d": {
+      "agent_id": {
+        "tool": "pi",
+        "id": "019eaa1a-1be6-71e2-807a-e1db732502c7",
+        "model": "gpt-5.5"
+      },
+      "human_author": "ram4-dev <ramirocarnicersouble8@gmail.com>"
+    },
+    "s_469293aa8dd19c": {
+      "agent_id": {
+        "tool": "pi",
+        "id": "019ea9f2-c388-7305-b98f-395f2d0205cb",
+        "model": "gpt-5.5"
+      },
+      "human_author": "ram4-dev <ramirocarnicersouble8@gmail.com>"
+    }
+  }
+}
