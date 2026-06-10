@@ -1,0 +1,23 @@
+AGENTS.md
+  s_5a490bf36a2ee8::t_eb205c5ca8fa65 102-103
+  s_5a490bf36a2ee8::t_97cc1d481d4db1 98-101,104
+.opencode/AGENTS.md
+  s_5a490bf36a2ee8::t_97cc1d481d4db1 41-44,47
+  s_5a490bf36a2ee8::t_eb205c5ca8fa65 45-46
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "46ddd17187abda6be21c333d19fa403cab32b5aa",
+  "prompts": {},
+  "sessions": {
+    "s_5a490bf36a2ee8": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_14de726a1ffeZeaK2dREN5Nxlj",
+        "model": "gpt-5.5"
+      },
+      "human_author": "ram4-dev <ramirocarnicersouble8@gmail.com>"
+    }
+  }
+}
