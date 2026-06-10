@@ -1,0 +1,55 @@
+back/services/mcp/mcpToolContracts.ts
+  s_9c73a17e3e63b6::t_abef06851d0a77 17
+back/services/__tests__/mcpToolRegistry.test.ts
+  s_9c73a17e3e63b6::t_9b537bcaf68a6e 24,37,40
+  s_9c73a17e3e63b6::t_8cd9a82d0ca160 78-89
+back/services/mcp/mcpToolRegistry.ts
+  s_9c73a17e3e63b6::t_abef06851d0a77 125-137,224-235
+back/services/mcp/mcpToolCallRouter.ts
+  s_9c73a17e3e63b6::t_fdf043dd94a9c9 3,12,80-83,132-133,138-260
+  s_9c73a17e3e63b6::t_8790dde1249e3d 263-303
+docs/README.md
+  s_5a490bf36a2ee8::t_5d58e7ef76a535 9,21-22,53-54
+.opencode/AGENTS.md
+  s_5a490bf36a2ee8::t_4b9092acbfcb33 1-45
+.opencode/opencode.json
+  s_5a490bf36a2ee8::t_4b9092acbfcb33 1-7
+back/services/__tests__/mcpToolCallRouter.test.ts
+  s_9c73a17e3e63b6::t_2db1b50bac0347 6,9,223-224,672,682-766
+docs/wave-6-signer-adapter/technical-spec.md
+  s_5a490bf36a2ee8::t_5d58e7ef76a535 3-164
+docs/wave-6-signer-adapter/task.json
+  s_9c73a17e3e63b6::t_c072a36a2fbf3a 4-271
+.gitignore
+  s_5a490bf36a2ee8::t_125490e1ee6a75 64
+back/services/__tests__/mcpServer.test.ts
+  s_9c73a17e3e63b6::t_037b6e1f23127d 79
+docs/wave-6-signer-adapter/functional-spec.md
+  s_5a490bf36a2ee8::t_5d58e7ef76a535 3-97
+back/services/executionGateway.ts
+  s_9c73a17e3e63b6::t_abef06851d0a77 32,72-73
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "ef9e15037bbb87c3d0cbef3e21069fcd17ba2548",
+  "prompts": {},
+  "sessions": {
+    "s_5a490bf36a2ee8": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_14de726a1ffeZeaK2dREN5Nxlj",
+        "model": "gpt-5.5"
+      },
+      "human_author": "ram4-dev <ramirocarnicersouble8@gmail.com>"
+    },
+    "s_9c73a17e3e63b6": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_150d3a991ffe7iErQtwHCKfBim",
+        "model": "gpt-5.5"
+      },
+      "human_author": "ram4-dev <ramirocarnicersouble8@gmail.com>"
+    }
+  }
+}
