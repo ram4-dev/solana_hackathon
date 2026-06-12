@@ -1,0 +1,24 @@
+docs/README.md
+  s_1f37694b995467::t_53eba5cfa5a893 25
+  s_1f37694b995467::t_ec170a63f630ce 26,30-38
+docs/plans/2026-06-12-two-tool-e2e-architecture-design.md
+  s_1f37694b995467::t_b15ae7cbeb4fb1 1-81
+docs/wave-10-two-tool-e2e-mcp/proposal.md
+  s_1f37694b995467::t_cea808b0a6381a 1-136
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "6ea6031a2f6e87851c0e96ad06561e42bc820da2",
+  "prompts": {},
+  "sessions": {
+    "s_1f37694b995467": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_148026f0effekPzDxu4sAtlvq8",
+        "model": "gpt-5.5"
+      },
+      "human_author": "ram4-dev <ramirocarnicersouble8@gmail.com>"
+    }
+  }
+}
