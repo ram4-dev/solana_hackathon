@@ -1,0 +1,19 @@
+.opencode/AGENTS.md
+  s_1f37694b995467::t_4ec38ba1c74a69 41-48
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "470ab0b3528ac7baacdc68829d007ef2c1d464eb",
+  "prompts": {},
+  "sessions": {
+    "s_1f37694b995467": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_148026f0effekPzDxu4sAtlvq8",
+        "model": "gpt-5.5"
+      },
+      "human_author": "ram4-dev <ramirocarnicersouble8@gmail.com>"
+    }
+  }
+}
