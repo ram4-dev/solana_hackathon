@@ -1,0 +1,202 @@
+back/services/__tests__/mcpToolRegistry.test.ts
+  s_7edc757afd9033::t_9845ec1cbd46fe 8,18,23-33,36-42,69-70,76,79-86,88,90-139,141-153,155-176,182-189,197-198,201-210,212-227,229
+  s_792be9d953832e::t_636533dafe6c25 43-68
+  s_7edc757afd9033::t_6adbb7056444eb 71-75,77-78
+back/services/mcp/mcpToolContracts.ts
+  s_7edc757afd9033::t_09a082855324d1 100-145
+  s_7edc757afd9033::t_1f8162b7d1fe44 15-18,23
+back/services/__tests__/internalExecutor.test.ts
+  s_c0d82290755bb2::t_806ff30cbb7288 35-46,66-69,71-75,104,107-111,113-117,146,157,170-171,250,252-254,315-319,324-329,336,338,347,351-358,386-426
+  s_c0d82290755bb2::t_e5dc6cc61fbbc0 1-28,30-34,47-65,70,76-103,105-106,112,118-145,147-156,158-169,172-249,251,255-314,320-323,330-335,337,339-346,348-350,359-385,427-429
+  s_c0d82290755bb2::t_d079c861c971a9 29
+docs/wave-10-two-tool-e2e-mcp/technical-spec.md
+  s_3843f99156da27::t_d2ee7bf41a6a43 1-115
+docs/wave-10-two-tool-e2e-mcp/verify-report.md
+  s_ddd30565243c16::t_7b716a5662f9b4 6,46,52,62,65,68,71,79-81
+  s_36ab969c123605::t_24f414d52710f6 11-12,19-26,34,36,41,59,72,75,78,91-110,115-125,130-135,139,143-145,148-149,152-153
+  s_d2a064824838e9::t_595a5ee2316bda 1-2,7-10,13,15-18,27-33,35,37-40,42-45,47-50,53-58,60-61,63-64,66-67,69-70,73-74,76-77,82-90,111-114,126-129,136-138,140-141,146-147,150-151
+  s_1f37694b995467::t_7d3bd0f1db8ac5 3-5,51
+  s_1f37694b995467::t_26a0f4aefdd772 14,142
+back/services/mcp/mcpToolRegistry.ts
+  s_7edc757afd9033::t_80478c30a85271 45-104,224-233,278-307,380-381,401
+back/services/mcp/mcpToolCallRouter.ts
+  s_87b7607b15e987::t_ffb48b96bd841a 9,23-25,32,46-58,67,135,156-194,205,238-239,247,262-268,272-274,303-307,315,334,339-344,349-351,354-356,360,363-365,370-425,427-434,438-439,442,444-471,474-478,483-484,487-507,511-512,517-526,528-540,543,545-547,549,553-564,566-568,570-580,585-586,589,593,596-598,604-605,613,634,667-676,682,689-690,696-700,705,716,725,730-734,736,743,752,763-775,777-778,783-784,787-801,804-813,822-828,830-845,847-854,857-862,864-881,883-889,892-894,896,899,919-922,939-942,960,963-966,1001-1003,1013,1030-1033,1043-1050,1052-1059,1062-1070,1073-1074,1076-1085,1142-1150,1152-1160,1163-1164,1167-1173,1175,1186-1189,1192-1194,1200,1252
+  s_87b7607b15e987::t_0faa43f8128a20 298
+back/services/__tests__/mcpServer.test.ts
+  s_7edc757afd9033::t_30d4e14e8eb45e 76-77
+back/services/__tests__/mcpToolCallRouter.test.ts
+  s_c0d82290755bb2::t_0cd00f404460d6 193
+  s_c0d82290755bb2::t_ab569b30f7d5ca 631-633,638-640,642-643
+  s_792be9d953832e::t_7b2789909968b9 1249-1250,1263-1265
+  s_792be9d953832e::t_a342c9f5f9f49b 1285-1286,1301-1303
+  s_792be9d953832e::t_721b7a5b0c6784 1003-1005,1010,1012-1013,1017-1018,1023,1026-1027,1029,1033-1038,1041,1046,1049-1050,1054-1057,1060-1072,1078,1080-1089,1093,1095-1097,1099-1102,1105-1116,1122-1123,1126-1134,1138-1141,1143-1144,1147-1159,1161-1169,1171-1173,1175-1182,1189,1192-1196,1200-1204,1208,1210-1221,1229-1233,1237-1239,1245,1252-1256,1260-1262,1268-1281,1289-1296,1300
+  s_4148cb1b625b0a::t_6f762b27f39b23 648-650,655,657-658,662-667
+  s_4148cb1b625b0a::t_c39aceff8ab689 425,427,450-455
+  s_c0d82290755bb2::t_1436630bc6844b 553,572-574,601,604
+  s_c0d82290755bb2::t_d4552559def1da 627
+  s_c0d82290755bb2::t_1ec40bad98eed5 188-189
+  s_c0d82290755bb2::t_a5e0cf953a40e5 718
+  s_c0d82290755bb2::t_1853ced171fc34 761
+  s_4148cb1b625b0a::t_c7d96241be7d18 915-917,940
+  s_4148cb1b625b0a::t_e0cf5b5928f967 935,937,958-959
+  s_792be9d953832e::t_bc2fb46255abe8 1170,1174
+  s_517dafb334d3f6::t_95a7d7dc9eb431 1098
+  s_c0d82290755bb2::t_341dff3e32cc0c 190-192,194-200
+  s_792be9d953832e::t_b71dc05ac3f3aa 1160
+  s_c0d82290755bb2::t_d24fd4264aff36 681-687,689,691,693,695-714,719,721-722,724-725,729-734,736,739-750,757,759-760,762,764,768-770,781,784-787,791,793,798-809,816,818-821,823,827-830,834-849,854,856-865,869-873,877-887,893,896-904,908-910,962-964,971,975-984,986-992,994-1000
+  s_4148cb1b625b0a::t_80c3efaeccb6ff 341,357,359-362
+  s_1f37694b995467::t_cbfce7e78ad1fc 518-522,545
+  s_c0d82290755bb2::t_7e343e3490000c 783
+  s_c0d82290755bb2::t_9ae6b62878e561 763
+  s_4148cb1b625b0a::t_a58936414db018 312,314,333-338
+  s_4148cb1b625b0a::t_97129266f8688a 458,476,478-481
+  s_4148cb1b625b0a::t_708032002b38a8 365,385,387-390
+  s_4148cb1b625b0a::t_59e9e65c612755 484,486,501-506
+  s_4148cb1b625b0a::t_2d98f3024b7ed6 774-776,792,794-795
+  s_c0d82290755bb2::t_efef6edda00493 822
+  s_4148cb1b625b0a::t_3a322507de2eba 509,523-531,536,540,544
+  s_4148cb1b625b0a::t_fdd754bc56f96c 913
+  s_c0d82290755bb2::t_a2470ed8a5ab90 723
+  s_4148cb1b625b0a::t_e41f42a9141f4d 914,922,924-928,932-934,936,941-942,944-952,955-957,960
+  s_792be9d953832e::t_9001f335af4de1 1225-1226,1240-1242
+  s_c0d82290755bb2::t_9df4b4846de490 584,588-589,593-595,597-598,609-611,613-614,616-620,622-624
+  s_c0d82290755bb2::t_55aa284b22bfc4 694
+docs/wave-10-two-tool-e2e-mcp/functional-spec.md
+  s_d650c5f887187d::t_823a370939f882 1-145
+back/services/mcp/internalExecutor.ts
+  s_c0d82290755bb2::t_7214f8bbb7fa29 4-8,66,72-74,79-80,83
+  s_1f37694b995467::t_679225da8e7df2 15,37,138,351
+  s_c0d82290755bb2::t_6cbdc7ab9b9b57 1-3,9-14,16-36,38-65,67-71,75-78,81-82,84-92,94-137,139-350
+  s_1f37694b995467::t_f625c37be96145 93
+docs/wave-10-two-tool-e2e-mcp/task.json
+  s_7edc757afd9033::t_35b335295a7a11 61
+  s_e7c9b81689f29b::t_55f715c62e1007 1-2,4-6,8,12-13,17-22,26-29,33-36,40-46,48-60,62-72,74-85,87-98,100-109,111-112,114-120,123-124,126-139,141-161,163-177,179-190,192-201,203-216,218-232,234-243
+  s_c0d82290755bb2::t_b6f86237f3e780 121-122,125
+  s_1f37694b995467::t_5736d6f821c55c 244-251
+  s_c0d82290755bb2::t_a797916e544610 140
+  s_7edc757afd9033::t_9f0e4495ebeec9 110,113
+  s_c0d82290755bb2::t_4dc2a84462a783 178
+  s_7edc757afd9033::t_e394511c63e478 73
+  s_7edc757afd9033::t_487760d81f80a3 99
+  s_7edc757afd9033::t_6f80de273aec72 47
+  s_c0d82290755bb2::t_8e929211ea0109 202
+  s_c0d82290755bb2::t_a278cbd9a2a167 162
+  s_1f37694b995467::t_bda8f3c47cac1a 3
+  s_c0d82290755bb2::t_0800847289b4ba 233
+  s_c0d82290755bb2::t_f784b3a88660f3 191
+  s_1f37694b995467::t_354ddafd4a1c58 7,9-11,14-16,23-25,30-32,37-39,252
+  s_7edc757afd9033::t_3b008373575ea4 86
+  s_c0d82290755bb2::t_feab786b2d2ed9 217
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "4e838eb565e9a5f029e65fbb7ecffa241439abdc",
+  "prompts": {},
+  "sessions": {
+    "s_1f37694b995467": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_148026f0effekPzDxu4sAtlvq8",
+        "model": "gpt-5.5"
+      },
+      "human_author": "ram4-dev <ramirocarnicersouble8@gmail.com>"
+    },
+    "s_36ab969c123605": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_13e41bbeeffe6eWPOn1E9jzU9b",
+        "model": "gpt-5.4"
+      },
+      "human_author": "ram4-dev <ramirocarnicersouble8@gmail.com>"
+    },
+    "s_3843f99156da27": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_142b90f9fffeIFyeyN2mCq9ntf",
+        "model": "kimi-k2.5"
+      },
+      "human_author": "ram4-dev <ramirocarnicersouble8@gmail.com>"
+    },
+    "s_4148cb1b625b0a": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_14251b5e1ffeGGWyIxuVGCsj1n",
+        "model": "glm-5.1"
+      },
+      "human_author": "ram4-dev <ramirocarnicersouble8@gmail.com>"
+    },
+    "s_517dafb334d3f6": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_13e46015affeMGf0LftWyp5Ayz",
+        "model": "glm-5.1"
+      },
+      "human_author": "ram4-dev <ramirocarnicersouble8@gmail.com>"
+    },
+    "s_792be9d953832e": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_13e746555ffeF0jKRWV5hxJ90C",
+        "model": "glm-5.1"
+      },
+      "human_author": "ram4-dev <ramirocarnicersouble8@gmail.com>"
+    },
+    "s_7edc757afd9033": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_142a40641ffe88IjcVj69DETCM",
+        "model": "glm-5.1"
+      },
+      "human_author": "ram4-dev <ramirocarnicersouble8@gmail.com>"
+    },
+    "s_87b7607b15e987": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_13e57fb98ffeLSw8YssR8PNZgz",
+        "model": "glm-5.1"
+      },
+      "human_author": "ram4-dev <ramirocarnicersouble8@gmail.com>"
+    },
+    "s_c0d82290755bb2": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_14285d73affe65ty4bznP050g8",
+        "model": "glm-5.1"
+      },
+      "human_author": "ram4-dev <ramirocarnicersouble8@gmail.com>"
+    },
+    "s_d2a064824838e9": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_14090a211ffeWLWi1Y3qCRcoUr",
+        "model": "gpt-5.4"
+      },
+      "human_author": "ram4-dev <ramirocarnicersouble8@gmail.com>"
+    },
+    "s_d650c5f887187d": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_142c8adceffeZtmThIye8j6Ip4",
+        "model": "gpt-5.5"
+      },
+      "human_author": "ram4-dev <ramirocarnicersouble8@gmail.com>"
+    },
+    "s_ddd30565243c16": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_13e4d7197ffem4z0qY5SaAUata",
+        "model": "gpt-5.4"
+      },
+      "human_author": "ram4-dev <ramirocarnicersouble8@gmail.com>"
+    },
+    "s_e7c9b81689f29b": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_142b477ccffepR4IVxMfemik66",
+        "model": "minimax-m2.5"
+      },
+      "human_author": "ram4-dev <ramirocarnicersouble8@gmail.com>"
+    }
+  }
+}
