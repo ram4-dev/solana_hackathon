@@ -1,0 +1,29 @@
+docs/wave-11-mcp-proxy-architecture/exploration.md
+  s_fd1d61e70a3b21::t_360c844849fe21 1-49
+docs/wave-11-mcp-proxy-architecture/proposal.md
+  s_bf6c77e790284f::t_c454c9e4f68446 1-71
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "20b99bbe688a72cf05f4e811027a834188cd908e",
+  "prompts": {},
+  "sessions": {
+    "s_bf6c77e790284f": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_138e4d07bffeQpqsl4KZeM593u",
+        "model": "gpt-5.4"
+      },
+      "human_author": "ram4-dev <ramirocarnicersouble8@gmail.com>"
+    },
+    "s_fd1d61e70a3b21": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_138e7f51dffep9X6CJ011lX6OT",
+        "model": "gpt-5.4"
+      },
+      "human_author": "ram4-dev <ramirocarnicersouble8@gmail.com>"
+    }
+  }
+}
