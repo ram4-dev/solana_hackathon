@@ -1,0 +1,111 @@
+back/services/__tests__/mcpConfigWrapping.test.ts
+  s_1f37694b995467::t_4662a0cfc25ef7 281,443
+  s_66482ad8d1c1e6::t_0ba87c4156eb9e 192-273
+  s_f498a9312972be::t_d96d8faca1293e 345-347,353-354,368,453-455,457-479,515-518,520-521,562-565
+  s_166a8df6717410::t_f15485a0af0fed 10,344,349-352,355-367,369,431-434,436-442,444-452,480-495,497-514,519,559-561
+  s_9710175253f8b2::t_c42f4d12b35ba8 1,3-9,17-20,25-31,33-45,47-73,75-86,88-116,118-135,137-159
+  s_100740ba43f21c::t_17909c66cf4c14 2,21-24
+  s_0c25706fdbe9f6::t_74661e649c27a1 161-162,164-172,174-189,342,566
+  s_0c25706fdbe9f6::t_17a1d6dbcd05d5 163
+  s_1f37694b995467::t_58bd478bbfed5b 173,280,282-283,286-287,314,348,435,456,496
+  s_100740ba43f21c::t_78192599381ed6 32,46,74,87,117,136
+  s_1f37694b995467::t_90a0eccbcd956e 284
+  s_1410aa5b7e8e07::t_45a11dbc74551b 371-429,522-558
+  s_4aa386f6f32040::t_deae8445a850d9 11-14,275-279,285,288-313,315-341
+back/services/__tests__/fixtures/fakeDownstreamMcpServer.ts
+  s_dee4a5a788bc15::t_a4df9141cde196 145-150,171-174,190,230-235,260
+  s_9710175253f8b2::t_946ab4f2c431d2 188
+  s_9710175253f8b2::t_d37a061cdae3df 2-3,28,32-41,53-62,75-85,98-107,109-114,117,119,121-138,151-168,178-181,185-187,192-194,197-206,209-214,216-220,238-258,261-266,315-360,364-394,399-411
+  s_1f37694b995467::t_a48aa3f40f35d8 395-396
+  s_100740ba43f21c::t_d5dce5f7794ce3 4-17,31,42-50,64-72,86-97,108,115,118,120,169,196,207-208,215
+  s_4aa386f6f32040::t_77978c4f767f4c 24,116,182-184,361-363
+  s_0c25706fdbe9f6::t_5961f8d6b03479 18-23,25,139-144,170,175-177,189,221-228,259,269-311
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "9731b7ed9e3ec57bf225f79c1b5336feccb3b962",
+  "prompts": {},
+  "sessions": {
+    "s_0c25706fdbe9f6": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_13820f694ffeKma2FL72Ti2rBq",
+        "model": "gpt-5.5"
+      },
+      "human_author": "ram4-dev <ramirocarnicersouble8@gmail.com>"
+    },
+    "s_100740ba43f21c": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_138af3390ffelYZYelk2ddm9t1",
+        "model": "glm-5.1"
+      },
+      "human_author": "ram4-dev <ramirocarnicersouble8@gmail.com>"
+    },
+    "s_1410aa5b7e8e07": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_137f68b64ffe7A03BSFrWfDK6U",
+        "model": "gpt-5.5"
+      },
+      "human_author": "ram4-dev <ramirocarnicersouble8@gmail.com>"
+    },
+    "s_166a8df6717410": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_137fe0845ffeM6MKhkrSinZPa6",
+        "model": "gpt-5.5"
+      },
+      "human_author": "ram4-dev <ramirocarnicersouble8@gmail.com>"
+    },
+    "s_1f37694b995467": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_148026f0effekPzDxu4sAtlvq8",
+        "model": "gpt-5.5"
+      },
+      "human_author": null
+    },
+    "s_4aa386f6f32040": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_138133452ffeQXWQgIWalxV6Kp",
+        "model": "gpt-5.5"
+      },
+      "human_author": "ram4-dev <ramirocarnicersouble8@gmail.com>"
+    },
+    "s_66482ad8d1c1e6": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_13774e419ffePHR0AwDruyKHiA",
+        "model": "gpt-5.5"
+      },
+      "human_author": "ram4-dev <ramirocarnicersouble8@gmail.com>"
+    },
+    "s_9710175253f8b2": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_138bd8d28ffeG8bEM5jFvTK1ij",
+        "model": "glm-5.1"
+      },
+      "human_author": "ram4-dev <ramirocarnicersouble8@gmail.com>"
+    },
+    "s_dee4a5a788bc15": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_137c336ecffefZl7auMLF0iztP",
+        "model": "gpt-5.5"
+      },
+      "human_author": "ram4-dev <ramirocarnicersouble8@gmail.com>"
+    },
+    "s_f498a9312972be": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_138070777ffefELgWxkU7nGxua",
+        "model": "gpt-5.5"
+      },
+      "human_author": "ram4-dev <ramirocarnicersouble8@gmail.com>"
+    }
+  }
+}
