@@ -1,0 +1,55 @@
+back/services/policy/defaultPolicy.ts
+  s_d0aeec36ca7771::t_ef600ae8c4136b 1-36
+README.md
+  s_d0aeec36ca7771::t_571c198113338a 9,13,19-24,26,29,32-33,35,40-48,50
+back/README.md
+  s_d0aeec36ca7771::t_571c198113338a 3,10,12-24,26-27,30,32-34,36,39-41
+vitest.back.config.ts
+  s_d0aeec36ca7771::t_647f88127834e2 7
+back/services/mcp/downstreamMcpStdioClient.ts
+  s_d0aeec36ca7771::t_f69b55389a30a8 20
+back/services/policy/loadPolicy.ts
+  s_d0aeec36ca7771::t_ef600ae8c4136b 2,8,13-14
+app/layout.tsx
+  s_d0aeec36ca7771::t_6944ee6473afae 2-3
+back/services/__tests__/loadPolicy.test.ts
+  s_d0aeec36ca7771::t_d550b11bf747b5 10-27,30-37,134-135
+back/services/mcp/mcpProxyDispatcher.ts
+  s_d0aeec36ca7771::t_f69b55389a30a8 21
+package.json
+  s_d0aeec36ca7771::t_6a3770630f2ca8 26
+.opencode/opencode.json
+  s_752f6884b3ee40::t_c75bf74675da26 3,7,10-14
+back/services/mcp/mcpServer.ts
+  s_d0aeec36ca7771::t_f69b55389a30a8 31
+AGENTS.md
+  s_d0aeec36ca7771::t_647f88127834e2 10
+back/services/__tests__/mcpServer.test.ts
+  s_d0aeec36ca7771::t_f60b5088954074 1
+tsconfig.json
+  s_d0aeec36ca7771::t_647f88127834e2 29
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "6552ce869ed88e98df4a9a8ead2d380814e56829",
+  "prompts": {},
+  "sessions": {
+    "s_752f6884b3ee40": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_1373bc889ffedHq0sGHqMQR7EK",
+        "model": "gpt-5.5"
+      },
+      "human_author": "ram4-dev <ramirocarnicersouble8@gmail.com>"
+    },
+    "s_d0aeec36ca7771": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_136f8dbb1ffeQDejpsS5GhymSU",
+        "model": "gpt-5.5"
+      },
+      "human_author": "ram4-dev <ramirocarnicersouble8@gmail.com>"
+    }
+  }
+}
