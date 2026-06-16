@@ -1,0 +1,131 @@
+scripts/dump-audit.mjs
+  s_02a4e2653ef66e::t_6b151f7ba2f87f 1-13,20-25,27-57
+  s_02a4e2653ef66e::t_564d515db25a47 26
+  s_02a4e2653ef66e::t_c2f68d95b17b1a 14-19
+back/services/__tests__/mcpProxyLlmDecisionIntegration.test.ts
+  s_4172112d4e8193::t_45c591c74be483 79,86,103,110,128,145,161,169
+  s_4172112d4e8193::t_0c55899ac8c483 1-78,80-85,87-102,104-109,111-127,129-144,146-160,162-168,170-176
+docs/pipeline-implementation/proposal.md
+  s_12bc4e05d2112f::t_c43e6d17d45b9d 1-4,6-14,17-20,23-46,49-54,59-65,67-69,71-77,79-82,84-88,90-95,98-99
+  s_9e911b204d16a4::t_e4d039103dbfbd 5,15-16,21-22,47-48,55-58,66,70,78,83,89,96-97
+back/services/mcp/proxy/mcpProxyAudit.ts
+  s_ebb5be531f7c25::t_0a40280115dcfd 52-62,68,227-253,294
+back/services/__tests__/mcpProxyDispatcher.test.ts
+  s_4172112d4e8193::t_0c55899ac8c483 9,529-586,588-604,606-622,624-684
+  s_4172112d4e8193::t_45c591c74be483 587,605,623
+scripts/test-crypto-tools.mjs
+  s_02a4e2653ef66e::t_cc5529263a44ec 1-83
+back/services/intelligence/llm-router/llmRouterAdapter.ts
+  s_02a4e2653ef66e::t_340474dd01c0ea 210-215,218-224
+  s_02a4e2653ef66e::t_a012146073a394 225-227
+  s_02a4e2653ef66e::t_eef62e176615e0 185-188
+  s_02a4e2653ef66e::t_0bdf3e58b6429a 216-217
+  s_02a4e2653ef66e::t_91371b0bcfc814 126-128
+docs/pipeline-implementation/task.json
+  s_9e911b204d16a4::t_e4d039103dbfbd 54-75,89,93-94,122,126,136,143-153,155
+  s_6428ce21cbf17b::t_c044a5baab53b7 1-53,76-88,90-92,95-121,123-125,127-135,137-142,154,157
+  s_9e911b204d16a4::t_97098508d2ea9d 156
+back/services/mcp/proxy/mcpProxyPolicyInterceptor.ts
+  s_02a4e2653ef66e::t_540db0d5bcf769 63-77
+  s_02a4e2653ef66e::t_8ca02260c566b9 27
+  s_02a4e2653ef66e::t_9cd51890f4316c 168-173
+  s_02a4e2653ef66e::t_5b3624e148ff8d 246-250
+docs/pipeline-implementation/functional-spec.md
+  s_9e911b204d16a4::t_e4d039103dbfbd 5-237
+back/services/__tests__/llmRouterAdapter.test.ts
+  s_4172112d4e8193::t_0c55899ac8c483 1-114
+scripts/test-downstream-mcp.mjs
+  s_02a4e2653ef66e::t_64e20cd16ab88b 2-7,16-23,31-51,53-54,58,60,63-64,66-67,71-73,75-107,115-117,119,122-135,137,140-187,192
+back/services/mcp/proxy/mcpProxyDispatcher.ts
+  s_d15318447504ef::t_916e8d97e49e55 15-21,27,36,127-139,142-143,145-148,150-169,171-172,174,176-186,188-189,191-206,208-250,252-253,255-256,259,263,265-266,270,275,288,299,309,312,321,331
+  s_d15318447504ef::t_0a9f38fea76bfc 140-141,144,149,170,173,175,187,190,207
+back/services/intelligence/llm-router/llmRouterContracts.ts
+  s_47a07d7b6fffd9::t_f55d077edb571f 1-66
+back/services/mcp/proxy/mcpProxyContracts.ts
+  s_ebb5be531f7c25::t_558aa53cef7be5 75-95
+docs/pipeline-implementation/technical-spec.md
+  s_885ecf9503bf36::t_6b1ed28acb8d97 1-4,6-14,21-24,26-34,37-50,52-53,55-88,142-147,149-160,164-171,176-178,180-183
+  s_9e911b204d16a4::t_e4d039103dbfbd 5,15-20,25,35-36,51,54,89-141,148,161-163,172-175,179
+back/services/intelligence/llm-router/llmRouterPrompt.ts
+  s_47a07d7b6fffd9::t_f55d077edb571f 1-27
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "bb706a24e0e329957bbadbd9391a77596d576ab8",
+  "prompts": {},
+  "sessions": {
+    "s_02a4e2653ef66e": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_13389524bffeQi73k1waSMTPFV",
+        "model": "deepseek-v4-flash"
+      },
+      "human_author": "ram4-dev <ramirocarnicersouble8@gmail.com>"
+    },
+    "s_12bc4e05d2112f": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_12e6d5a3effeDKgflxv6SLtM5V",
+        "model": "gpt-5.5"
+      },
+      "human_author": "ram4-dev <ramirocarnicersouble8@gmail.com>"
+    },
+    "s_4172112d4e8193": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_12de6e051ffexJdgZt9peaidhX",
+        "model": "gpt-5.5"
+      },
+      "human_author": "ram4-dev <ramirocarnicersouble8@gmail.com>"
+    },
+    "s_47a07d7b6fffd9": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_12df87dc3ffenHan8M23DoE6eM",
+        "model": "gpt-5.5"
+      },
+      "human_author": "ram4-dev <ramirocarnicersouble8@gmail.com>"
+    },
+    "s_6428ce21cbf17b": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_12e0a758dffeSJl6hQkvAiuR2x",
+        "model": "gpt-5.5"
+      },
+      "human_author": "ram4-dev <ramirocarnicersouble8@gmail.com>"
+    },
+    "s_885ecf9503bf36": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_12e0d95f7ffeup50LDBz2Vl6bF",
+        "model": "gpt-5.5"
+      },
+      "human_author": "ram4-dev <ramirocarnicersouble8@gmail.com>"
+    },
+    "s_9e911b204d16a4": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_12e00d6eaffeZf388Jl9J5icQl",
+        "model": "gpt-5.5"
+      },
+      "human_author": "ram4-dev <ramirocarnicersouble8@gmail.com>"
+    },
+    "s_d15318447504ef": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_12ded25f9ffevEmDabXZ6Mv4iQ",
+        "model": "gpt-5.5"
+      },
+      "human_author": "ram4-dev <ramirocarnicersouble8@gmail.com>"
+    },
+    "s_ebb5be531f7c25": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_12df0807bffexXN3qSgkJbCWx1",
+        "model": "gpt-5.5"
+      },
+      "human_author": "ram4-dev <ramirocarnicersouble8@gmail.com>"
+    }
+  }
+}
