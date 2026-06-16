@@ -1,0 +1,80 @@
+.opencode/skills/solana-dev/references/kit/advanced.md
+  s_cc9912263ef510::t_a861e67ec2b979 1-516
+.opencode/skills/solana-dev/references/kit/codecs.md
+  s_cc9912263ef510::t_a861e67ec2b979 1-188
+.opencode/skills/solana-dev/references/kit/programs/token.md
+  s_cc9912263ef510::t_a861e67ec2b979 1-250
+.opencode/skills/solana-dev/references/kit-web3-interop.md
+  s_cc9912263ef510::t_a861e67ec2b979 1-55
+.opencode/skills/solana-dev/references/confidential-transfers.md
+  s_cc9912263ef510::t_a861e67ec2b979 1-739
+.opencode/skills/solana-dev/references/kit/gotchas.md
+  s_cc9912263ef510::t_a861e67ec2b979 1-210
+.opencode/skills/solana-dev/references/kit/programs/token-2022.md
+  s_cc9912263ef510::t_a861e67ec2b979 1-77
+.opencode/skills/solana-dev/references/kit/accounts.md
+  s_cc9912263ef510::t_a861e67ec2b979 1-166
+.opencode/skills/solana-dev/references/kit/programs/system.md
+  s_cc9912263ef510::t_a861e67ec2b979 1-143
+.opencode/skills/solana-dev/references/programs/pinocchio.md
+  s_cc9912263ef510::t_a861e67ec2b979 1-794
+.opencode/skills/solana-dev/references/surfpool/cheatcodes.md
+  s_cc9912263ef510::t_a861e67ec2b979 1-66
+.opencode/skills/solana-dev/references/kit/programs/compute-budget.md
+  s_cc9912263ef510::t_a861e67ec2b979 1-162
+.opencode/skills/solana-dev/references/frontend-framework-kit.md
+  s_cc9912263ef510::t_a861e67ec2b979 1-94
+.opencode/skills/solana-dev/references/common-errors.md
+  s_cc9912263ef510::t_a861e67ec2b979 1-626
+.opencode/skills/solana-dev/references/anchor/migrating-v0.32-to-v1.md
+  s_cc9912263ef510::t_a861e67ec2b979 1-856
+.opencode/skills/solana-dev/references/kit/overview.md
+  s_cc9912263ef510::t_a861e67ec2b979 1-304
+.opencode/skills/solana-dev/references/testing.md
+  s_cc9912263ef510::t_a861e67ec2b979 1-354
+.opencode/skills/solana-dev/SKILL.md
+  s_cc9912263ef510::t_a861e67ec2b979 1-173
+.opencode/skills/solana-dev/references/surfpool/overview.md
+  s_cc9912263ef510::t_a861e67ec2b979 1-605
+.opencode/skills/solana-dev/references/programs/anchor.md
+  s_cc9912263ef510::t_a861e67ec2b979 1-312
+.opencode/skills/solana-dev/references/compatibility-matrix.md
+  s_cc9912263ef510::t_a861e67ec2b979 1-265
+.opencode/skills/solana-dev/references/resources.md
+  s_cc9912263ef510::t_a861e67ec2b979 1-81
+.opencode/opencode.json
+  s_cc9912263ef510::t_60bbbf8c859e5e 9
+  s_cc9912263ef510::t_5c7fe16f8eb95b 7-8,10-11
+.opencode/skills/solana-dev/references/kit/codama.md
+  s_cc9912263ef510::t_a861e67ec2b979 1-83
+.opencode/skills/solana-dev/references/kit/plugins.md
+  s_cc9912263ef510::t_a861e67ec2b979 1-291
+.opencode/skills/solana-dev/references/payments.md
+  s_cc9912263ef510::t_a861e67ec2b979 1-44
+.opencode/skills/solana-dev/references/security.md
+  s_cc9912263ef510::t_a861e67ec2b979 1-562
+.opencode/skills/solana-dev/references/kit/react.md
+  s_cc9912263ef510::t_a861e67ec2b979 1-188
+.opencode/skills/solana-dev/references/rpc-quick-lookups.md
+  s_cc9912263ef510::t_a861e67ec2b979 1-115
+skills-lock.json
+  s_cc9912263ef510::t_d19f05aafe6adf 1-11
+.opencode/skills/solana-dev/references/idl-codegen.md
+  s_cc9912263ef510::t_a861e67ec2b979 1-45
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "b34e00796bc955d6dc8c3567f5c7d08cdeedd226",
+  "prompts": {},
+  "sessions": {
+    "s_cc9912263ef510": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_12d624d1affe6S7Aw9SWUznoLm",
+        "model": "gpt-5.5"
+      },
+      "human_author": "ram4-dev <ramirocarnicersouble8@gmail.com>"
+    }
+  }
+}
