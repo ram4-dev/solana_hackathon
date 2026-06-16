@@ -1,0 +1,24 @@
+scripts/e2e-pipeline-test.mjs
+  s_02a4e2653ef66e::t_0667e70421dc5c 126-128
+  s_02a4e2653ef66e::t_4e8706051de478 130-132,137-139,145-147
+  s_02a4e2653ef66e::t_44e27cde61621f 229,233-234
+  s_02a4e2653ef66e::t_38b5b0734dd5f6 1-125,129,133-136,140-144,148-228,230-232,235-290
+package.json
+  s_02a4e2653ef66e::t_1ff6e46619ef80 15-17
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "f7b36c0703bd8b6dbe1f5c60f7aedf1f941767c9",
+  "prompts": {},
+  "sessions": {
+    "s_02a4e2653ef66e": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_13389524bffeQi73k1waSMTPFV",
+        "model": "deepseek-v4-flash"
+      },
+      "human_author": "ram4-dev <ramirocarnicersouble8@gmail.com>"
+    }
+  }
+}
