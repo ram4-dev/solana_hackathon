@@ -1,0 +1,119 @@
+back/services/mcp/proxy/mcpProxyPolicyInterceptor.ts
+  s_5729b6a01c5fc9::t_e5c5df361ccb65 152-160,162-165,167-170,172-177,179-185,187-193,195-196
+  s_5729b6a01c5fc9::t_93d6840e641d20 237-240
+  s_5729b6a01c5fc9::t_309aefbe36a7f3 12
+back/services/guardrail/policy/policyEngine.ts
+  s_5729b6a01c5fc9::t_6aae773444d5ab 66-68,73-75,80-82,86-88
+  s_5729b6a01c5fc9::t_9a486f8713d06b 28-31
+  s_5729b6a01c5fc9::t_1ec3725cc22de1 5
+docs/debug-logging-utility/tasks.json
+  s_c9d76686eedc8d::t_d9756e6b6b179c 1-77
+back/services/solana/providers/solanaConnection.ts
+  s_5729b6a01c5fc9::t_c968b40ca0edd2 33
+  s_5729b6a01c5fc9::t_cba092900cbfdd 9
+back/services/guardrail/debugLogger.ts
+  s_5729b6a01c5fc9::t_e2e844282b95a5 1-77,87-126
+  s_bbade966b2affd::t_ad6a1dcbe20163 78-85
+  s_bbade966b2affd::t_7e56ea4bd1a3b8 86
+docs/debug-logging-utility/verify-report.md
+  s_2966a88e6d3b72::t_82d1b8a6822c7d 1-50
+.gitignore
+  s_bbade966b2affd::t_b3cce6e7be6965 26
+back/services/mcp/server/mcpServer.ts
+  s_5729b6a01c5fc9::t_40605d94b65f4e 217
+  s_5729b6a01c5fc9::t_a58a9f57a10028 24
+back/services/guardrail/policy/policyEvaluationResult.ts
+  s_5729b6a01c5fc9::t_f822b3a64acc92 2
+  s_5729b6a01c5fc9::t_7d3b632e09d8da 30-34
+back/services/domains/conditional-parking-lot/conditionalGateway.ts
+  s_5729b6a01c5fc9::t_d9b48f33d9a506 3
+  s_5729b6a01c5fc9::t_669383f5838752 26-30
+back/services/guardrail/execution/executionGateway.ts
+  s_5729b6a01c5fc9::t_eb73e2bdb6c7bb 3
+  s_5729b6a01c5fc9::t_e009ef8ab32982 117-120
+  s_5729b6a01c5fc9::t_0d7ed3bcf1818c 45,56,67,83,94,104
+back/services/__tests__/fixtures/fakeDownstreamMcpServer.ts
+  s_5729b6a01c5fc9::t_a475bd74a50b66 18
+  s_5729b6a01c5fc9::t_96858db2786c64 273
+back/services/domains/swap/swapGateway.ts
+  s_5729b6a01c5fc9::t_73bd5eb50939af 25-29
+  s_5729b6a01c5fc9::t_3a797d8ae94d6d 3
+back/services/__tests__/debugLogger.test.ts
+  s_5729b6a01c5fc9::t_fa3510bbee04e4 1-3,5-143
+  s_5729b6a01c5fc9::t_07a7a398ab9e20 4
+back/services/mcp/proxy/mcpProxyDispatcher.ts
+  s_5729b6a01c5fc9::t_55a522ced47604 314-317
+  s_5729b6a01c5fc9::t_7cd8b74140e4da 15
+  s_5729b6a01c5fc9::t_798ed37d0105af 128-131
+  s_5729b6a01c5fc9::t_b73080fb046e22 264-267
+  s_5729b6a01c5fc9::t_b0207b05a15007 147-151
+docs/debug-logging-utility/technical-design.md
+  s_bbade966b2affd::t_9ef84b5f5024f2 98
+  s_608d7f32f872c1::t_4f5d473cc32bd9 1-29,39-48,50-72,74-81,83-97,99-151,153-154,167-176,179-183,185,187-233,236-240,248-259,262-379,381-383,389,394,396-398,401,414-415,421-434,436-488,493-507
+  s_bbade966b2affd::t_f9f691892a7934 30-38
+  s_bbade966b2affd::t_ccef0e1fd81e7e 155-166,177-178,184,186
+  s_bbade966b2affd::t_5ba1a23e90d3dd 234-235,241-247,260-261
+  s_bbade966b2affd::t_8919a8c1df0d62 380,384-388,390-393,395,399-400,402-413,416-420
+  s_bbade966b2affd::t_fb20c6f356e6ac 435
+  s_bbade966b2affd::t_d8fcbaae8b14aa 489-492
+  s_bbade966b2affd::t_a66efb05eb43d1 73,82
+  s_bbade966b2affd::t_93bd857a3a8773 152
+  s_bbade966b2affd::t_1e7565119a05ae 49
+back/services/domains/transfer/transferGateway.ts
+  s_5729b6a01c5fc9::t_69ada0d6cad533 3
+  s_5729b6a01c5fc9::t_8bd2be3dfacbbc 36-39
+back/services/mcp/config/loadRepoEnv.ts
+  s_5729b6a01c5fc9::t_40f5730ce62af2 147
+  s_5729b6a01c5fc9::t_b6c5e58c141216 20-21
+back/services/__tests__/loadRepoEnv.test.ts
+  s_5729b6a01c5fc9::t_a99f80c22afcf9 170,173-176,178
+  s_5729b6a01c5fc9::t_38b10fab4142a0 1,3,10-29
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "60943fe948bacca238245c076d31114fff6f7919",
+  "prompts": {},
+  "sessions": {
+    "s_2966a88e6d3b72": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_12d29342dffeuIXQVOECtHnCEn",
+        "model": "gpt-5.4-mini"
+      },
+      "human_author": "ram4-dev <ramirocarnicersouble8@gmail.com>"
+    },
+    "s_5729b6a01c5fc9": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_12d4435d1ffeITF9tgQIEodViq",
+        "model": "deepseek-v4-flash"
+      },
+      "human_author": "ram4-dev <ramirocarnicersouble8@gmail.com>"
+    },
+    "s_608d7f32f872c1": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_12d55012bffe5jsnLn21xST7Nd",
+        "model": "deepseek-v4-flash"
+      },
+      "human_author": "ram4-dev <ramirocarnicersouble8@gmail.com>"
+    },
+    "s_bbade966b2affd": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_12d631cffffeeD7iwX5XzqPHEl",
+        "model": "mimo-v2.5"
+      },
+      "human_author": "ram4-dev <ramirocarnicersouble8@gmail.com>"
+    },
+    "s_c9d76686eedc8d": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_12d48c6e7ffeGOF78xybaS4giE",
+        "model": "deepseek-v4-flash"
+      },
+      "human_author": "ram4-dev <ramirocarnicersouble8@gmail.com>"
+    }
+  }
+}
