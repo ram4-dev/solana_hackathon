@@ -1,0 +1,20 @@
+docs/hosted-api/compass-hosted.postman_collection.json
+  s_4153036e913b20::t_4e3cc0b24a97ee 1-8,10-215
+  s_4153036e913b20::t_6fca86d5392d89 9
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "fccd07a674dbf477e957aba8d6ec1df7584bc362",
+  "prompts": {},
+  "sessions": {
+    "s_4153036e913b20": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_122850ab3ffe22FSY7Eqdx8ICh",
+        "model": "mimo-v2.5"
+      },
+      "human_author": "ram4-dev <ramirocarnicersouble8@gmail.com>"
+    }
+  }
+}
