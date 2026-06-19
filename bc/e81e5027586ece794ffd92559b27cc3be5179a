@@ -1,0 +1,19 @@
+README.md
+  s_87493287de06f3::t_405c9e41bd5ce2 11-14,16-59,62-67,69,71-72,75-157,160-191,199-211
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "bce81e5027586ece794ffd92559b27cc3be5179a",
+  "prompts": {},
+  "sessions": {
+    "s_87493287de06f3": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_11e87e89dffeEyhrsUYN7oqzpn",
+        "model": "deepseek-v4-flash"
+      },
+      "human_author": "ram4-dev <ramirocarnicersouble8@gmail.com>"
+    }
+  }
+}
