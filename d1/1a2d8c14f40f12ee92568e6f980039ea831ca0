@@ -1,0 +1,19 @@
+openspec/changes/transfer-risk-policy/proposal.md
+  s_bdf0b195800483::t_a2c23273ebf197 1-26
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "d11a2d8c14f40f12ee92568e6f980039ea831ca0",
+  "prompts": {},
+  "sessions": {
+    "s_bdf0b195800483": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_1227e43a6ffeXgoDaam9wvQ2F3",
+        "model": "deepseek-v4-flash"
+      },
+      "human_author": "ram4-dev <ramirocarnicersouble8@gmail.com>"
+    }
+  }
+}
