@@ -1,0 +1,27 @@
+back/services/__tests__/onchainApproval.test.ts
+  s_4153036e913b20::t_bdaa66247d4c95 12
+back/guardrail/debugLogger.ts
+  s_4153036e913b20::t_0f39188b952d00 12
+hosted/onchain/onchainApproval.ts
+  s_4153036e913b20::t_eb74c55a7fbb76 1-532
+back/guardrail/redaction.ts
+  s_4153036e913b20::t_9c77becd140251 1-47
+back/guardrail/execution/executionGateway.ts
+  s_4153036e913b20::t_45b2f2368da64a 4
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "64b48dcce14eaa5275ccc0b3240e3962963b66e2",
+  "prompts": {},
+  "sessions": {
+    "s_4153036e913b20": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_122850ab3ffe22FSY7Eqdx8ICh",
+        "model": "mimo-v2.5"
+      },
+      "human_author": "ram4-dev <ramirocarnicersouble8@gmail.com>"
+    }
+  }
+}
