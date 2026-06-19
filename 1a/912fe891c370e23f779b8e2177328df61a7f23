@@ -1,0 +1,21 @@
+hosted/llm/llmRouterAdapter.ts
+  s_4153036e913b20::t_4b79595314774c 15
+hosted/llm/llmRouterPrompt.ts
+  s_4153036e913b20::t_8543b7f1cb236c 1-27
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "1a912fe891c370e23f779b8e2177328df61a7f23",
+  "prompts": {},
+  "sessions": {
+    "s_4153036e913b20": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_122850ab3ffe22FSY7Eqdx8ICh",
+        "model": "mimo-v2.5"
+      },
+      "human_author": "ram4-dev <ramirocarnicersouble8@gmail.com>"
+    }
+  }
+}
