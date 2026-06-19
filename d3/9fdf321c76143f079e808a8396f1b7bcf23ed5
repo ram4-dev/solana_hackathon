@@ -1,0 +1,32 @@
+hosted/evaluate/evaluationService.ts
+  s_4153036e913b20::t_5355273ca16b1b 138-157,160-168
+  s_4153036e913b20::t_c993288807db63 74,80,85-96,98,112,114-115
+hosted/evaluate/evaluationService.test.ts
+  s_4153036e913b20::t_343df5b52cc0ee 90,97-102,109-110,113-115,119-170
+package.json
+  s_bdf0b195800483::t_21738673845e71 18-21,43
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "d39fdf321c76143f079e808a8396f1b7bcf23ed5",
+  "prompts": {},
+  "sessions": {
+    "s_4153036e913b20": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_122850ab3ffe22FSY7Eqdx8ICh",
+        "model": "mimo-v2.5"
+      },
+      "human_author": "ram4-dev <ramirocarnicersouble8@gmail.com>"
+    },
+    "s_bdf0b195800483": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_1227e43a6ffeXgoDaam9wvQ2F3",
+        "model": "deepseek-v4-flash"
+      },
+      "human_author": "ram4-dev <ramirocarnicersouble8@gmail.com>"
+    }
+  }
+}
