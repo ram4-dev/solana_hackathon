@@ -1,0 +1,29 @@
+back/services/mcp/server/mcpServer.ts
+  s_4153036e913b20::t_dbb518ed132fe1 11-12
+  s_4153036e913b20::t_da1d34ca0cc967 243,252,259
+  s_4153036e913b20::t_c216d8d906f22b 223-228
+  s_4153036e913b20::t_fbb6657b41cee4 233-234
+scripts/test-user-flow.mjs
+  s_4153036e913b20::t_dccce9d77ec6ca 1-49,51-107,110-116,120-131,135-138,140-146,150-154,160-164,167-186
+  s_4153036e913b20::t_3b7b346d745807 108-109,117-119,132-134,139
+  s_4153036e913b20::t_9a96ddcdd46c5e 155-158
+  s_4153036e913b20::t_c315073aad2500 159,165-166
+  s_4153036e913b20::t_8f138137ae2861 50
+  s_4153036e913b20::t_554df31ef6b332 147-149
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "e8683746ffbd2db312ebf2dcfc7da0740dc26fdc",
+  "prompts": {},
+  "sessions": {
+    "s_4153036e913b20": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_122850ab3ffe22FSY7Eqdx8ICh",
+        "model": "mimo-v2.5"
+      },
+      "human_author": "ram4-dev <ramirocarnicersouble8@gmail.com>"
+    }
+  }
+}
