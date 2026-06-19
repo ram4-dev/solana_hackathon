@@ -1,0 +1,19 @@
+next.config.mjs
+  s_4153036e913b20::t_a04317ebae14e8 1-5,15-19
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "d75ab8eace93f70004ccac05b11cc22475d30419",
+  "prompts": {},
+  "sessions": {
+    "s_4153036e913b20": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_122850ab3ffe22FSY7Eqdx8ICh",
+        "model": "mimo-v2.5"
+      },
+      "human_author": "ram4-dev <ramirocarnicersouble8@gmail.com>"
+    }
+  }
+}
