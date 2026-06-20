@@ -1,0 +1,19 @@
+app/api/hosted/[...route]/route.ts
+  s_4153036e913b20::t_de09b3de5b8661 5,9-17,44
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "21fd699d18f0f7b1b74b0dbb6db5c7d865e90146",
+  "prompts": {},
+  "sessions": {
+    "s_4153036e913b20": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_122850ab3ffe22FSY7Eqdx8ICh",
+        "model": "mimo-v2.5"
+      },
+      "human_author": "ram4-dev <ramirocarnicersouble8@gmail.com>"
+    }
+  }
+}
