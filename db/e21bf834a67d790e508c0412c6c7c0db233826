@@ -1,0 +1,22 @@
+package.json
+  s_4153036e913b20::t_bd6f303f9c2240 4,6-11,15
+  s_4153036e913b20::t_75aada4dfee1d5 52
+tsup.config.ts
+  s_4153036e913b20::t_0cce86179386f2 1-16
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "dbe21bf834a67d790e508c0412c6c7c0db233826",
+  "prompts": {},
+  "sessions": {
+    "s_4153036e913b20": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_122850ab3ffe22FSY7Eqdx8ICh",
+        "model": "mimo-v2.5"
+      },
+      "human_author": "ram4-dev <ramirocarnicersouble8@gmail.com>"
+    }
+  }
+}
