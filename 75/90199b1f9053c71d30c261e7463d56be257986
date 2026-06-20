@@ -1,0 +1,23 @@
+README.md
+  s_4153036e913b20::t_ae6c03c7db9289 77-117
+package.json
+  s_4153036e913b20::t_76210411d0e2d1 4,9,13-14,16-27,29-32
+  s_4153036e913b20::t_b67ba7d1d1eebd 2,28
+  s_4153036e913b20::t_6f4d2ead51862c 15
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "7590199b1f9053c71d30c261e7463d56be257986",
+  "prompts": {},
+  "sessions": {
+    "s_4153036e913b20": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_122850ab3ffe22FSY7Eqdx8ICh",
+        "model": "mimo-v2.5"
+      },
+      "human_author": "ram4-dev <ramirocarnicersouble8@gmail.com>"
+    }
+  }
+}
