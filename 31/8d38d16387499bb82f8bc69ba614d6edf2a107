@@ -1,0 +1,19 @@
+back/solana/conditional-escrow-buy/programs/conditional-escrow-buy/src/lib.rs
+  s_4153036e913b20::t_0b1abd869ac186 593-596
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "318d38d16387499bb82f8bc69ba614d6edf2a107",
+  "prompts": {},
+  "sessions": {
+    "s_4153036e913b20": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_122850ab3ffe22FSY7Eqdx8ICh",
+        "model": "mimo-v2.5"
+      },
+      "human_author": "ram4-dev <ramirocarnicersouble8@gmail.com>"
+    }
+  }
+}
